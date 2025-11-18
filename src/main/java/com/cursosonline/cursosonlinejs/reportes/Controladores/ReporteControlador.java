@@ -13,11 +13,13 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 @RequestMapping("/api/reportes")
 @CrossOrigin(
         origins = {
-                "http://localhost:3000", // React en desarrollo
-                "http://localhost:9090"  // por si luego sirves el frontend desde Spring
+                "http://localhost:3000",                        // React dev
+                "http://localhost:9090",                        // si lo usas
+                "https://cursosonline-juan-santacruz.vercel.app" // tu frontend en producción
         },
         allowCredentials = "true"
 )
+
 @Tag(
         name = "Reportes",
         description = "Microservicio para obtener estadísticas de la plataforma CursosOnlineJS."

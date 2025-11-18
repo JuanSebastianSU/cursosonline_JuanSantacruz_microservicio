@@ -6,7 +6,9 @@ com\cursosonline\cursosonlinejs\reportes\Repositorios\CursoReporteRepositorio.cl
 com\cursosonline\cursosonlinejs\reportes\Repositorios\InscripcionDoc.class
 com\cursosonline\cursosonlinejs\reportes\Repositorios\CertificadoDoc.class
 com\cursosonline\cursosonlinejs\reportes\Repositorios\UsuarioDoc.class
+com\cursosonline\cursosonlinejs\reportes\config\CorsConfig$1.class
 com\cursosonline\cursosonlinejs\reportes\DTO\ResumenPlataformaDTO.class
 com\cursosonline\cursosonlinejs\reportes\Repositorios\CertificadoReporteRepositorio.class
+com\cursosonline\cursosonlinejs\reportes\config\CorsConfig.class
 com\cursosonline\cursosonlinejs\reportes\CursosonlinejsReportesApplication.class
 com\cursosonline\cursosonlinejs\reportes\Repositorios\InscripcionReporteRepositorio.class

@@ -1,0 +1,12 @@
+com\cursosonline\cursosonlinejs\reportes\Repositorios\CursoDoc.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\UsuarioReporteRepositorio.class
+com\cursosonline\cursosonlinejs\reportes\Controladores\ReporteControlador.class
+com\cursosonline\cursosonlinejs\reportes\Servicios\ReporteServicio.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\CursoReporteRepositorio.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\InscripcionDoc.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\CertificadoDoc.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\UsuarioDoc.class
+com\cursosonline\cursosonlinejs\reportes\DTO\ResumenPlataformaDTO.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\CertificadoReporteRepositorio.class
+com\cursosonline\cursosonlinejs\reportes\CursosonlinejsReportesApplication.class
+com\cursosonline\cursosonlinejs\reportes\Repositorios\InscripcionReporteRepositorio.class

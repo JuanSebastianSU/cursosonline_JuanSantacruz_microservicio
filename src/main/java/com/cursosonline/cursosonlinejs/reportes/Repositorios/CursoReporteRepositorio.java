@@ -1,4 +1,4 @@
-﻿package com.cursosonline.cursosonlinejs.reportes.Repositorios;
+package com.cursosonline.cursosonlinejs.reportes.Repositorios;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

@@ -1,4 +1,4 @@
-﻿package com.cursosonline.cursosonlinejs.reportes.DTO;
+package com.cursosonline.cursosonlinejs.reportes.DTO;
 
 public record ResumenPlataformaDTO(
         long totalUsuarios,

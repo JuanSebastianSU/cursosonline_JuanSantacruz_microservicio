@@ -1,4 +1,4 @@
-﻿package com.cursosonline.cursosonlinejs.reportes.Controladores;
+package com.cursosonline.cursosonlinejs.reportes.Controladores;
 
 import com.cursosonline.cursosonlinejs.reportes.DTO.ResumenPlataformaDTO;
 import com.cursosonline.cursosonlinejs.reportes.Servicios.ReporteServicio;
